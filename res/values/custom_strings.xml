@@ -15,7 +15,7 @@
     <!-- Density category -->
     <string name="density_category">Density options</string>
 
-  <!-- Three-fingers-swipe to screenshot -->
+    <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
 
@@ -42,18 +42,23 @@
     <!-- Whether the dots will be drawn when using the lockscreen pattern -->
     <string name="lockpattern_settings_enable_dots_title">Show pattern dots</string>
 
-   <!-- Battery stats reset -->
+    <!-- Battery stats reset -->
     <string name="battery_stats_reset">Reset stats</string>
     <string name="battery_stats_message">Battery history stats are going to be reset</string>
 
-   <!-- App details: open play store link if app is user installed -->
+    <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
 
-   <!-- Fullscreen gestures -->
+    <!-- Fullscreen gestures -->
     <string name="other_controls_title">Other controls</string>
     <string name="fullscreen_gestures_title">Fullscreen gestures</string>
     <string name="fullscreen_gestures_summary">Hide navbar pill and keyboard space</string>
 
-   <!-- Volume link notification -->
+    <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+
+    <!-- Media gestures -->
+    <string name="prevent_ringing_option_mute_no_media">Mute, no media</string>
+    <string name="prevent_ringing_option_mute_no_media_summary">On (mute, no media)</string>
+
 </resources>
