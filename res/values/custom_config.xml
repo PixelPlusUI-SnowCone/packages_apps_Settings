@@ -23,4 +23,9 @@
     <!-- xdUI Base Layout -->
     <color name="homepage_blaze_background">#536dfe</color>
     <color name="xd_background1">@android:color/system_neutral1_50</color>
+
+    <!-- Battery Health -->
+    <string name="config_batteryCalculatedCapacity">/sys/class/power_supply/bms/charge_full</string>
+    <string name="config_batteryDesignCapacity">/sys/class/power_supply/bms/charge_full_design</string>
+    <string name="config_batteryChargeCycles">/sys/class/power_supply/bms/cycle_count</string>
 </resources>
