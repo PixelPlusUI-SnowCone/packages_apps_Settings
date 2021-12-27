@@ -79,6 +79,7 @@ android_library {
         "lottie",
         "custom-preference",
         "SettingsGoogle-lib",
+        "powerusagefeaturegoogle",
     ],
     manifest: "AndroidManifest.xml",
     additional_manifests: ["SettingsGoogle-Manifest.xml"],
@@ -136,4 +137,10 @@ filegroup {
 filegroup {
     name: "Settings_manifest",
     srcs: ["AndroidManifest.xml"],
+}
+
+java_import {
+    name: "powerusagefeaturegoogle",
+    jars: ["libs/powerusagefeaturegoogle.jar"],
+    sdk_version: "current",
 }
