@@ -77,4 +77,10 @@
     <string name="face_unlock_method_swipe">При свайпе на экране блокировки</string>
     <string name="high_touch_polling_rate_title">Высокая частота опроса прикосновений</string>
     <string name="high_touch_polling_rate_summary">Увеличить скорость опроса сенсорного экрана</string>
+
+    <!-- Battery stats view -->
+    <string name="powerusage_provider_google">Схема энергопотребления Pixel</string>
+    <string name="power_usage_provider_summary">Использовать график статистики батареи и схему питания Pixel</string>
+    <string name="powerusage_provider_google_dialog_title">Применить изменения</string>
+    <string name="powerusage_provider_google_dialog_message">Для применения настроек необходимо закрыть приложение настроек из недавних и открыть повторно</string>
 </resources>
