@@ -77,6 +77,13 @@
         android:summary="@string/mic_toggle_description"
         settings:controller="com.android.settings.privacy.MicToggleController"/>
 
+    <!-- Location Privacy Indicator -->
+    <com.android.settings.custom.preference.SecureSettingSwitchPreference
+        android:key="enable_location_privacy_indicator"
+        android:title="@string/location_privacy_title"
+        android:summary="@string/location_privacy_summary"
+        android:defaultValue="true" />
+
     <!-- Show passwords -->
     <SwitchPreference
         android:key="show_password"
