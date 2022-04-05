@@ -150,7 +150,10 @@
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Screenshot sound</string>
 
-    <!-- Location Privacy Indicator -->
+    <!-- Privacy Indicator -->
+    <string name="camera_privacy_indicator_title">Camera/Mic access indicator</string>
+    <string name="camera_privacy_indicator_summary_on">Show camera/mic in the privacy chip</string>
+    <string name="camera_privacy_indicator_summary_off">Show camera/mic in status bar icons</string>
     <string name="location_privacy_title"> Show Location Privacy Indicator</string>
     <string name="location_privacy_summary">Enable - Disable location privacy indicator in qs and sb</string>
 </resources>
