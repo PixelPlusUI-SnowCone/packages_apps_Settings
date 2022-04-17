@@ -156,4 +156,10 @@
     <string name="camera_privacy_indicator_summary_off">Show camera/mic in status bar icons</string>
     <string name="location_privacy_title"> Show Location Privacy Indicator</string>
     <string name="location_privacy_summary">Enable - Disable location privacy indicator in qs and sb</string>
+
+   <!-- Custom Settings Tiles -->
+    <string name="customizations_title">Our Main Customizations</string>
+    <string name="system_updates_title">OTA Updates</string>
+    <string name="common_settings_title">Usual AOSP Settings</string>
+
 </resources>
