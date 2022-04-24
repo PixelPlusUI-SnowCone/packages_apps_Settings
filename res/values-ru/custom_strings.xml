@@ -88,4 +88,12 @@
     <string name="customizations_title">Наши Основные Кастомизации</string>
     <string name="system_updates_title">OTA Обновления</string>
     <string name="common_settings_title">Обычные AOSP Настройки</string>
+
+    <!-- Battery health -->
+    <string name="current_battery_capacity">Реальная емкость батареи</string>
+    <string name="designed_battery_capacity">Номинальная ёмкость батареи</string>
+    <string name="battery_charge_cycles">Циклы заряда</string>
+
+    <!-- Battery temperature -->
+    <string name="battery_temperature">Температура батареи</string>
 </resources>
