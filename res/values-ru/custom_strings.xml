@@ -78,11 +78,47 @@
     <string name="high_touch_polling_rate_title">Высокая частота опроса прикосновений</string>
     <string name="high_touch_polling_rate_summary">Увеличить скорость опроса сенсорного экрана</string>
 
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Полноэкранные приложения</string>
+    <string name="display_cutout_force_fullscreen_summary">Игнорирование выреза экрана приложениями</string>
+    <string name="search">Поиск</string>
+    <string name="search_apps">Поиск приложений</string>
+
     <!-- Battery stats view -->
     <string name="powerusage_provider_google">Схема энергопотребления Pixel</string>
     <string name="power_usage_provider_summary">Использовать график статистики батареи и схему питания Pixel</string>
     <string name="powerusage_provider_google_dialog_title">Применить изменения</string>
     <string name="powerusage_provider_google_dialog_message">Для применения настроек необходимо закрыть приложение настроек из недавних и открыть повторно</string>
+
+    <!-- Fullscreen gestures -->
+    <string name="other_controls_title">Другие возможности</string>
+    <string name="fullscreen_gestures_title">Полноэкранные жесты</string>
+    <string name="fullscreen_gestures_summary">Полностью скрыть панель и убрать отступ клавиатуры</string>
+
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Длина значка управления</string>
+    <string name="short_label">Короткая</string>
+    <string name="long_label">Длинная</string>
+
+    <!-- Notification log -->
+    <string name="notification_log_summary">Отображать историю уведомлений</string>
+
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Платформа</string>
+
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Общее количество ОЗУ</string>
+
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">Звук Скриншота</string>
+
+    <!-- Privacy Indicator -->
+    <string name="camera_privacy_indicator_title">Индикатор Камеры/Микрофона</string>
+    <string name="camera_privacy_indicator_summary_on">Показывать камеру/микрофон в пункте приватности</string>
+    <string name="camera_privacy_indicator_summary_off">Показывать камеру/микрофон в значках строки состояния</string>
+    <string name="location_privacy_title"> Отображение индикатора Геолокации</string>
+    <string name="location_privacy_summary">Включение - Выключение индикатора геолокации в шторке и быстрых настройках</string>
 
    <!-- Custom Settings Tiles -->
     <string name="customizations_title">Наши Основные Кастомизации</string>
